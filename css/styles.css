@@ -1,0 +1,57 @@
+button.navbar-toggler  {
+	border-style: solid;
+	border-color: gray;
+	border-width: 3px;
+	border-radius: 10px;
+	
+}
+
+
+button.btn-dark {
+	border-style: solid;
+	border-color: black;
+	border-width: 1px;
+	border-radius: 10px;
+	margin: 2px;
+	color: white;
+}
+
+nav a, a:focus {
+	color:white;
+}
+nav a:hover { 
+	color: gray;
+}
+
+.jumbatron img {
+	float: center;
+
+}
+
+.jumbatron h2 {
+	float: right
+}
+
+.body {
+	background-image: url('../assets/builfing2.jpg')!important;;
+}
+
+
+
+.panel-transparent {
+	background: rgba(162, 165, 168, 0)!important;
+	margin: 10px;
+}
+
+.panel-transparent .panel-heading{
+	font-size: 1.5em;
+}
+
+.panel-transparent .panel-body{
+	font-size: 1em;
+
+}
+
+.panel-body li, .panel-body p {
+	margin: 10px
+}
